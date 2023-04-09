@@ -1,0 +1,1 @@
+{"name":"Local: oddSumPair","url":"d:\\study material\\Abhishek_DS&Algo\\codeChef\\oddSumPair.cpp","tests":[{"id":1666199440142,"input":"4\n1 2 3\n8 4 6\n3 3 9\n7 8 6","output":"YES\nNO\nNO \nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\study material\\Abhishek_DS&Algo\\codeChef\\oddSumPair.cpp","group":"local","local":true}

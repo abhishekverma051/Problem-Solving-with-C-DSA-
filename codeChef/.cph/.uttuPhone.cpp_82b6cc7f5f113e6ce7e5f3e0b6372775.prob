@@ -1,0 +1,1 @@
+{"name":"Local: uttuPhone","url":"d:\\study material\\Abhishek_DS&Algo\\codeChef\\uttuPhone.cpp","tests":[{"id":1662569287184,"input":"3\n100 1000\n10000 5000\n3000 3000","output":"REPAIR\nNEW PHONE\nANY"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\study material\\Abhishek_DS&Algo\\codeChef\\uttuPhone.cpp","group":"local","local":true}

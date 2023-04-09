@@ -1,0 +1,1 @@
+{"name":"Local: Iqchef","url":"d:\\study material\\Abhishek_DS&Algo\\codeChef\\Iqchef.cpp","tests":[{"id":1648499269321,"input":"2\n0\n1\n","output":"-1\n-2"},{"id":1648500023561,"input":"2 3 7 3","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\study material\\Abhishek_DS&Algo\\codeChef\\Iqchef.cpp","group":"local","local":true}

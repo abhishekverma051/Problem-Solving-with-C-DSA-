@@ -1,0 +1,1 @@
+{"name":"Local: chef_fitness","url":"d:\\study material\\Abhishek_DS&Algo\\web d\\chef_fitness.cpp","tests":[{"id":1656069070112,"input":"4\n1\n3\n7\n10\n","output":"10\n30\n70\n100\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\study material\\Abhishek_DS&Algo\\web d\\chef_fitness.cpp","group":"local","local":true}

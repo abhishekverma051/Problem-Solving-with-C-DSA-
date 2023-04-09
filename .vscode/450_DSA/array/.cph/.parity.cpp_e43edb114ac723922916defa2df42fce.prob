@@ -1,0 +1,1 @@
+{"name":"Local: parity","url":"d:\\study material\\Abhishek_DS&Algo\\.vscode\\450_DSA\\array\\parity.cpp","tests":[{"id":1668615271317,"input":"4\n10\n4\n3\n2","output":"Yes\nYes\nNo\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\study material\\Abhishek_DS&Algo\\.vscode\\450_DSA\\array\\parity.cpp","group":"local","local":true}

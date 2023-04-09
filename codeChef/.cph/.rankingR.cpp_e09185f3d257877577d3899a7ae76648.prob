@@ -1,0 +1,1 @@
+{"name":"Local: rankingR","url":"d:\\study material\\Abhishek_DS&Algo\\codeChef\\rankingR.cpp","tests":[{"id":1664995353219,"input":"5\n42\n67\n402\n45000\n45005","output":"NO\nYES\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\study material\\Abhishek_DS&Algo\\codeChef\\rankingR.cpp","group":"local","local":true}

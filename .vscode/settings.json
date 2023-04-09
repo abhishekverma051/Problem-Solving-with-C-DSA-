@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "ostream": "cpp"
+    },
+    "cmake.configureOnOpen": true,
+    "maven.view": "hierarchical",
+    "python.formatting.provider": "yapf"
+}
